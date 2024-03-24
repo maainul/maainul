@@ -5,15 +5,13 @@
 
 
 
-- 🔭 I’m currently working on **Cryptocurrency Exchange System**
+- 🔭 I’m currently developing ERP for **Beximco Garrment Division**
 
-- 🌱 I’m currently learning **Spring,Docker,React**
-
-- 👯 I’m looking to collaborate on **Office Management System**
+- 🌱 I’m currently learning **Nodejs,Docker,React,Microservices**
 
 - 👨‍💻 All of my projects are available at [github.com/maainul](github.com/maainul)
 
-- 💬 Ask me about **Go,Java**
+- 💬 Ask me about **Go,Java,Js,React**
 
 - 📫 How to reach me **mainul080@gmail.com**
 
