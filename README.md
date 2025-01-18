@@ -5,13 +5,13 @@
 
 
 
-- 🔭 I’m currently developing ERP for **Beximco Garrment Division**
+- 🔭 I’m currently developing ERP for **Beximco Garment Division**
 
-- 🌱 I’m currently learning **Nodejs,Docker,React,Microservices**
+- 🌱 I’m currently learning **Nodejs,Docker,React,Microservices,AWS,SonarQube,Jenkins**
 
 - 👨‍💻 All of my projects are available at [github.com/maainul](github.com/maainul)
 
-- 💬 Ask me about **Go,Java,Js,React**
+- 💬 Ask me about **Go,Java,Js,React,AWS,NextJs,NestJs,Express,Jenkins,SonarQube,Grafana,Prometheus,Loki**
 
 - 📫 How to reach me **mainul080@gmail.com**
 
